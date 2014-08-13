@@ -1,0 +1,50 @@
+* {
+  margin: 0; padding: 0; text-align: left;
+}
+
+body {
+  font-size: 14px;
+  font-family: Geneva, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.wrap {
+  width: 960px;
+  margin: 20px auto;
+}
+
+ul {
+  margin-left: 10px;
+}
+
+li {
+  margin-left: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+table.dressed {
+  min-width: 420px;
+  border-collapse: collapse;
+}
+
+table.dressed th, table.dressed td {
+  padding: 4px;
+}
+
+table.dressed thead th {
+  background-color: #d0d0d0;
+  font-weight: bold;
+}
+
+table.striped tbody tr:nth-child(even) td {
+  background-color: #eeeeee;
+}
+
+div.divider {
+  padding-bottom: 19px;
+  border-bottom: 1px solid #777;
+  margin-bottom: 20px;
+}
