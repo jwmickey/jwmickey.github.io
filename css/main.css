@@ -58,6 +58,7 @@ a:visited {
   border-bottom: 6px solid #6f6f6f;
   text-align: right;
   margin-bottom: 30px;
+  padding-right: 10px;
 }
 img {
   max-width: 100%;
